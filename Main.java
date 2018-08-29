@@ -16,7 +16,6 @@ public class Main {
         int base = scan.nextInt();
         System.out.println("Please enter a base to convert to");
         int convertBase = scan.nextInt();
-        
 
     }
 }
